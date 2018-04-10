@@ -18,7 +18,7 @@ ChurnR <- function(
                      quiet=TRUE) 
     require('randomForest')
   }
-  
+  ；；；；
   if (!require("AUC")) {
     install.packages('AUC',
                      repos="https://cran.rstudio.com/", 
